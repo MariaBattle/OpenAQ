@@ -1,2 +1,6 @@
 # OpenAQ
 DataKind DC OpenAQ project
+Hi everyone! I'm a data engineer / scientist. By day I am a data engineering modeler for my company, and I am finishing my Masters in Data Analytics at Johns Hopkins. On the side, I volunteer for data science projects like this one sponsored by DataKind. 
+Amiee Barciauskas is the DataKind project coordinator for OpenAQ (reachable on Slack). Her analysis expectations are purely exploratory at this point. No specific requirements for the OpenAQ site or the data have been offered yet. She mentioned she had a curiosity about outlier analysis a couple months ago, and it appears that rsicuranza/open-aq has made an approach. I don't see that anyone has collaborated with him yet, so that's a potential opportunity.
+Please be aware that the OpenAQ site does not check or govern data quality. They are simply a data aggregator. From analyzing one day of readings, it appears to me there are data quality issues. We also do not have an official Data Element Dictionary, so the fields and values can be difficult to interpret, such as an unintuitive carbon dioxide level of -4 or highly skewed outliers. I've done some open source research to fill these gaps which can be found in my lab book.
+Thanks for stopping by! I hope you find something to critique or assist - both are welcomed! Cheers!
